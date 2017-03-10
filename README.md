@@ -22,6 +22,6 @@ java -jar "ISETJBPuzzle.jar"
 
 ;-)
 
-[www.isetjb.net](http://www.isetjb.net/ "ISET Djerba"){:target="_blank"}
+[www.isetjb.net](http://www.isetjb.net/ "ISET Djerba")
 
 
