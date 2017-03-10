@@ -18,6 +18,6 @@ Le répertoire demo contient un fichier `ISETJBPuzzle.jar` qui est un jar exécu
 
 `java -jar "ISETJBPuzzle.jar"`
 
-[Site Web](http://www.isetjb.net/ "ISET Djerba")
+[www.isetjb.net](http://www.isetjb.net/ "ISET Djerba")
 
 ;-)
