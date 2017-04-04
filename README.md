@@ -16,8 +16,12 @@ Il s'agit du fameux jeu de **Puzzle** qui consite à déplacer les cases non ord
 ## Démonstration ##
 Le répertoire demo contient un fichier `ISETJBPuzzle.jar` qui est un jar exécutable pour avoir une idée sur le résultat final de l'application. Pour exécuter à partir de l'invite de commandes : 
 
-`java -jar "ISETJBPuzzle.jar"`
+```shell
+java -jar "ISETJBPuzzle.jar"
+```
+
+;-)
 
 [www.isetjb.net](http://www.isetjb.net/ "ISET Djerba")
 
-;-)
+
